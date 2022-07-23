@@ -2,6 +2,7 @@
 MySQL
 JPA
 JMS
+UML
 
 
 Potrebno je projektovati informacioni sistem za potrebe firme. Firma se sastoji od fabrike i prodajnih mesta. Ovaj informacioni sistem se sastoji od tri tipa aplikacije:
